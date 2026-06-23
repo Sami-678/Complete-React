@@ -1,0 +1,25 @@
+
+.Counter{
+    background-color: rgb(173, 136, 233);
+    padding: 10px 20px;
+    margin: 10px 150px;
+    border-radius: 10px;
+
+}
+.btn-div  button{
+    display: block;
+    margin: 4px;
+    border: none;
+    border-radius: 5px;
+}
+.counter_display , .btn-div , h1{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.ctn{
+    background-color: black;
+    margin: 3px;
+    padding: 2px 3px;
+    border-radius: 5px;
+}

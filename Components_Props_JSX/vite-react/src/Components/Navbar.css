@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(247, 236, 222);
+}
+
+nav{
+    padding: 23px;
+    background-color: aqua;
+}
+nav ul{
+    display: flex;
+    gap: 34px;
+
+}
+nav ul li {
+    list-style: none;
+    background-color: aliceblue;
+    padding: 6px 8px;
+    border-radius: 15px;
+}
